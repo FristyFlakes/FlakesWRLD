@@ -5,3 +5,5 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=FristyFlakes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+https://github-stats-alpha.vercel.app/api/?username=FristyFlakes&cc=1a1a1c&tc=df6d74&ic=df6d74
