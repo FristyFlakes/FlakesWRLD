@@ -6,4 +6,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/FristyFlakes/github-readme-stat)
 
 ![FristyFlakes Github Stats](https://github-readme-stats.vercel.app/api?username=FristyFlakes&theme=great-gatsby&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FristyFlakes&layout=bear)](https://github.com/FristyFlakes/github-readme-stat)
