@@ -7,4 +7,4 @@
 
 ![FristyFlakes Github Stats](https://githubreadmestats.fristyflakes.vercel.app/api?username=FristyFlakes&theme=great-gatsby&show_icons=true)
 
-[![Top Langs](https://githubreadmestats.vercel.app/api/top-langs/?username=FristyFlakes&layout=compact&theme=great-gatsby)](https://github.com/FristyFlakes/github-readme-stats)
+[![Top Langs](https://githubreadmestats.fristyfla.vercel.app/api/top-langs/?username=FristyFlakes&layout=compact&theme=great-gatsby)](https://github.com/FristyFlakes/github-readme-stats)
