@@ -5,6 +5,6 @@
 
 [![ReadMe Card](https://githubreadmestats.fristyflakes.vercel.app/api/pin/?username=anuraghazra&theme=great-gatsby&repo=github-readme-stats)](https://github.com/FristyFlakes/github-readme-stat)
 
-![FristyFlakes Github Stats](https://githubreadmestats.fristyflakes.vercel.app/api?username=FristyFlakes&theme=great-gatsby&show_icons=true)
+[![FristyFlakes Github Stats](https://githubreadmestats.fristyflakes.vercel.app/api?username=FristyFlakes&theme=great-gatsby&show_icons=true)
 
 [![Top Langs](https://githubreadmestats.fristyflakes.vercel.app/api/top-langs/?username=FristyFlakes&layout=compact&theme=great-gatsby)](https://github.com/FristyFlakes/github-readme-stats)
