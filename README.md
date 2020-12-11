@@ -6,7 +6,7 @@
 ![果汁 Github Stat](https://githubreadmestats.fristyflakes.vercel.app/api?username=FristyFlakes&theme=great-gatsby&show_icons=true)
 
 <a href="https://github.com/fristyflakes/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fristyflakes&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Anurag's Github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fristyflakes&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="果汁 Github stats" />
 </a>
 
 [![Top Langs](https://githubreadmestats.fristyflakes.vercel.app/api/top-langs/?username=FristyFlakes&layout=compact&theme=great-gatsby)](https://github.com/FristyFlakes/github-readme-stats)
